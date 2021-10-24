@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import PersonalData from "./components/PersonalData/PersonalData";
 import AccessData from "./components/AccessData/AccessData";
